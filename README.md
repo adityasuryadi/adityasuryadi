@@ -1,42 +1,28 @@
-# 🌐 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Aditya Suryadi!
 
-🚀 **Full-stack Developer** | 🎨 **Tech Enthusiast** | 🌱 **Lifelong Learner**
-
----
-
-### 🛠️ Tech Stack
-![Golang](https://img.shields.io/badge/Code-Golang-blue?logo=go)
-![Docker](https://img.shields.io/badge/Tools-Docker-blue?logo=docker)
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+Welcome to my GitHub! I'm a passionate developer with experience in building web applications and APIs. My primary focus is on writing clean, scalable, and maintainable code.  
 
 ---
 
-### 🌟 Featured Projects
-- **[Project A](#)**: Description of the project.
-  - 🚀 Tech: Golang, WebSocket
-- **[Project B](#)**: Another exciting project.
-  - 🌐 Tech: React, Node.js
+### 🚀 Tech Stack:
+- **Languages**: PHP, Go, JavaScript
+- **Frameworks/Libraries**: Laravel, Vue.js, React.js  
+- **Styling**: TailwindCSS, Bootstrap  
+- **Databases**: PostgreSQL, MongoDB, MariaDB  
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### 🎯 Goals for 2025:
+- Master **Go** for high-performance applications  
+- Dive into **Kubernetes** for modern container orchestration  
+- Advance my expertise in **React.js**
 
 ---
 
-### 🎯 Goals for 2024
-- Master advanced **WebSocket protocols**.
-- Build a **Golang-based open-source project**.
-- Learn **Kubernetes** for deployment.
+### 📫 Connect with Me:
+- **LinkedIn**: [Aditya Suryadi](https://www.linkedin.com/in/aditya-suryadi-7966b01b5/)
 
 ---
 
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?logo=web)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:youremail@gmail.com)
-
----
-
-🌟 **Feel free to explore my repos and star them if you find them helpful!**
+### 🌟 Fun Fact:
+I enjoy solving complex problems and continuously learning new technologies to improve my craft. Let's collaborate and build something amazing together!
